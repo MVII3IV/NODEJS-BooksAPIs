@@ -18,5 +18,4 @@ var bookModel = new Schema({
 
 });
 
-
 module.exports = mongoose.model('Book', bookModel);
